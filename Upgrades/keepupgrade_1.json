@@ -1,7 +1,7 @@
 {
 	"referenceName":"Keep Upgrade - 1",
     "stringId": "keep_upgrade_1",
-    "boostId": "cmdzod_gladiator_keep_upgrade_1",
+    "boostId": "keep_upgrade_1",
     "name": "upgrade.keep_upgrade_1",
 	"tier": 0,
 	"costs": {
