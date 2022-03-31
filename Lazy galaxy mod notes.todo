@@ -1,0 +1,101 @@
+Lazy Galaxy 2 Mod note:
+  ...\AppData\LocalLow\ColdwildGames\Lazy Galaxy 2\Mods\cmdzod_gladiator
+
+Can and can't do
+
++ Can't
+  - remove or change a specific recipe
+  - change a base upgrade / boost / recipe
+  - create new building or synergies
+  - set level for an encounter
+  - change guild / league
+  - limit ship or multi
+
++ Can
+  - Create ship & abilites
+  - Change base ship boost
+  - create new upgrade
+  - create new food, new recipe
+  - do mutually exclusive upgrade
+  - weight food gain
+
++ To try
+  - can have multiple abilites for one ship
+
+**Possible scenarios**
+ ☐ Gladiator
+ + 1 ship per battle
+    - Select between 7 champions (1 neutrals, 1 per guild, 1 per guild)
+    - multiple auto abilities per ship
+ + Galaxy
+   - idea 1 : 3 arms w/ 3 nodes and reward heavily skewed toward the end node
+   - idea 2 : 3 nodes repetition w/ snake like pattern and shortcut (w/ harder battle)
+   - Expedition : either 1 step or 5 steps battles
+ + Upgrades
+   - keep current upgrades
+   - add fighting upgrade
+   - rearrange former QOL Acension upgrade to Guild / League
+
+ + Ascension rework
+   - Base unlock
+     + offline time
+     + buyAllUpgrades
+     + multiSelect => multi-select building
+     + multiCasting => multi-abilites
+     + loadouts
+     + galaxyMapQueue
+     + autoHealthpacks => auto-collect health pick-up
+     + lunchbox
+     + endlessCombat
+
+   - Energy
+     + defaultEnergy
+     + overflowedEnergyProductionBoosts
+
+   - Combat
+     + tiered +damage/health
+
+   - Cooking Tier
+     + Tiers
+     + strastLunchbox
+
+   - Synergy Tier
+     => To scientist
+
+
++ Upgrade rework
+   - Essential
+     + unlock strange asteroids
+
+   - Tiered upgrade
+     + keepUpgrades
+
+   - Guild general
+     + A Boost per join related to what the guild tries to do
+
+   - Scrapper guild
+     + asteroid key spam
+     + asteroid based gameplay
+
+   - Scientist guild
+     + strange asteroid change and cooldown
+     + increase potency level
+     + unlock chunk synergy
+
+   - Merchant guild
+     + discount upgrade / building
+     + promote simcity w/ builing related boost, synergy boost
+     + unlock advanced and legendary synergy
+
+   - Possible balance tool
+     + spawnBudget => More enemy per fight
+     + healthpackIntervalMultiplier
+     + galaxyMapInfluence
+     + You can grant hidden upgrade (if <0 displayIndex)
+     + upgrade : mutualExclusivityGroup
+
+   - boostChaining
+     + upgradeUnlocks
+
+
+

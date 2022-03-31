@@ -1,0 +1,40 @@
+{
+  "buildingUnlocks": ["metal_mine", "solar_panel", "research_lab"],
+  "synergyScalingExclusions": [17, 9, 22],
+  "essentialBuildings": ["metal_mine", "academy", "pumpjack", "research_lab", "scanner", "solar_panel"],
+  
+  "strastEffects": ["metal_instant"],
+  "baseStrastChance": 0.02,
+  "strangeAsteroidChanceCooldown": 60,
+  
+  "defaultEnergy":1,
+  "buildingCostsRefund":0.5,
+
+  "shipUnlocks": ["cmdzod_gladiator_neutral_ship"],
+
+  "guild1Perk": 0.01, // Boost per asteroid click
+  "guild2Perk": 0.005, // ???
+  "guild3Perk": 1.25, // Metal prod boost
+
+  "idlingMinutesThreshold": 1,
+  "energyFormulaLeniency": 0.15,
+  "healthpackConstant": 2.5,
+  "offlineProductionMultiplier":1,
+
+  "keyboardClicking": true,
+  "keyboardStrastMultiplier":1,  
+
+
+  "synergiesTier1":true,
+  "galaxyMap":true,
+  "combatAbilities":true,
+  "lunchboxes":true,
+  "endlessCombat"  :true,
+  "buyAllUpgrades" : true,
+  "multiSelect" : true,
+  "multiCasting" : true,
+  "loadouts" : true,
+  "galaxyMapQueue": true,
+  "autoHealthpacks" : true,
+
+}
