@@ -3,7 +3,7 @@
 	"stringId": "machinegun_ability",
 
 	"target": 0,
-	"travelSpeed": 100,
+	"travelSpeed": 200,
 	"canBeAutoFired":true,
 
 	"charges": 10,
@@ -17,5 +17,5 @@
 	"piercing": false,
 	
 	"ignoreShipBusyState": true,
-	
+		
 }

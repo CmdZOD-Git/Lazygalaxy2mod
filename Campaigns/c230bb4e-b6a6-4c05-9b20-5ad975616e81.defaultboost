@@ -10,6 +10,23 @@
   "defaultEnergy":1,
   "buildingCostsRefund":0.5,
 
+  "resourceProductionBoosts": [
+        {
+            "resourceId": 0,
+            "multiplier": 9,
+        },
+
+        {
+            "resourceId": 1,
+            "multiplier": 9,
+        },
+
+        {
+            "resourceId": 2,
+            "multiplier": 9,
+        },
+  ],
+
   "shipUnlocks": ["cmdzod_gladiator_neutral_ship"],
 
   "guild1Perk": 0.01, // Boost per asteroid click
@@ -24,7 +41,6 @@
   "keyboardClicking": true,
   "keyboardStrastMultiplier":1,  
 
-
   "synergiesTier1":true,
   "galaxyMap":true,
   "combatAbilities":true,
@@ -36,5 +52,4 @@
   "loadouts" : true,
   "galaxyMapQueue": true,
   "autoHealthpacks" : true,
-
 }

@@ -1,0 +1,7 @@
+{
+	"archetype": "summon",
+	"stringId": "summon_drone_ability",
+	"summonedShip": "mothership_drone",
+	"summonRadius": 20,
+	"maxSummons": 2
+}
