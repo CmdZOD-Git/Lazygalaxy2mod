@@ -1,0 +1,7 @@
+{
+	"archetype": "summon",
+	"stringId": "summon_cargo_ability",
+	"summonedShip": "cargo",
+	"summonRadius": 20,
+	"maxSummons": 2
+}

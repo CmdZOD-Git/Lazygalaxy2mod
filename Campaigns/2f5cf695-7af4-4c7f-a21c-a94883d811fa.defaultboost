@@ -1,0 +1,18 @@
+{
+	"resourceProductionBoosts": [
+		{
+			"resourceId": 0,
+			"multiplier": 1
+		}
+	],
+	"buildingUnlocks": ["metal_mine", "research_lab", "solar_panel"],
+	"baseStrastChance": 0.01,
+    "cookingTier1": true,
+	"cookingTier2": true,
+	"cookingTier3": true,
+	"keyboardClicking": true,
+	"galaxyMapQueue": true,
+	"loadouts": true,
+	"fleetCooldown": -57,
+	"baseAsteroidValue": 8
+}

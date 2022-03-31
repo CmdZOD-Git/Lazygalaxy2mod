@@ -1,0 +1,13 @@
+<lang>
+
+	<lines area="text">
+		<!-- Upgrades -->
+		<line key="upgrade.keep_upgrade_1">Keep Upgrade - 1</line>
+        <line key="upgrade.keep_upgrade_1.flavor">lorem ipsum</line>
+
+        <!-- Ships -->
+        <line key="upgrade.keep_upgrade_1">Neutral gladiator</line>
+        <line key="upgrade.keep_upgrade_1.flavor">lorem ipsum</line>
+	</lines>
+
+</lang>

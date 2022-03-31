@@ -1,0 +1,21 @@
+{
+	"archetype": "projectile",
+	"stringId": "machinegun_ability",
+
+	"target": 0,
+	"travelSpeed": 100,
+	"canBeAutoFired":true,
+
+	"charges": 10,
+	"firingDelay": 0.2,
+	"onlyReloadAtNoCharges":true,
+	"cooldown": 1,
+
+	//projectile
+	"dmgMultiplier": 0.1,
+	"projectileScale": 1,
+	"piercing": false,
+	
+	"ignoreShipBusyState": true,
+	
+}

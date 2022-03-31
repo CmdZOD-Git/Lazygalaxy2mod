@@ -1,0 +1,11 @@
+{
+	"referenceName":"Keep Upgrade - 1",
+    "stringId": "keep_upgrade_1",
+    "boostId": "keep_upgrade_1",
+    "name": "upgrade.keep_upgrade_1",
+	"tier": 1,
+	"costs": {
+		"metal": 1
+	},
+    "sprite": "upgrade.png"
+}
