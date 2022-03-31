@@ -17,27 +17,27 @@ Can and can't do
   - create new upgrade
   - create new food, new recipe
   - do mutually exclusive upgrade
-  - weight food gain
+  - weight food gain from lunchbox
 
 + To try
-  - can have multiple abilites for one ship
+  - can have multiple abilites for one ship => try into an array ?
 
 **Possible scenarios**
  ☐ Gladiator
  + 1 ship per battle
     - Select between 7 champions (1 neutrals, 1 per guild, 1 per guild)
-    - multiple auto abilities per ship
+    - multiple auto abilities per ship ?
  + Galaxy
    - idea 1 : 3 arms w/ 3 nodes and reward heavily skewed toward the end node
    - idea 2 : 3 nodes repetition w/ snake like pattern and shortcut (w/ harder battle)
-   - Expedition : either 1 step or 5 steps battles
+   - Expedition : either 1 step (Boss) or 5 steps battles (node)
  + Upgrades
    - keep current upgrades
    - add fighting upgrade
    - rearrange former QOL Acension upgrade to Guild / League
 
  + Ascension rework
-   - Base unlock
+   - Default unlocked
      + offline time
      + buyAllUpgrades
      + multiSelect => multi-select building
@@ -54,10 +54,16 @@ Can and can't do
 
    - Combat
      + tiered +damage/health
+     + Health boost timer / heal%
+     + Scenario regen
+
+   - Chunk
+     + reduce obstacle spawn ratio
 
    - Cooking Tier
      + Tiers
-     + strastLunchbox
+     + strastLunchbox => lunchbox on multiple asteroid
+     + lunchbox spawn
 
    - Synergy Tier
      => To scientist
@@ -65,16 +71,16 @@ Can and can't do
 
 + Upgrade rework
    - Essential
-     + unlock strange asteroids
+     + unlock strange asteroids => tier 0 upgrade
 
    - Tiered upgrade
-     + keepUpgrades
+     + keepUpgrades 1 -> 10 to keep 1 to 10 upgrades
 
    - Guild general
      + A Boost per join related to what the guild tries to do
 
    - Scrapper guild
-     + asteroid key spam
+     + asteroid key spam for cheap
      + asteroid based gameplay
 
    - Scientist guild
@@ -84,7 +90,7 @@ Can and can't do
 
    - Merchant guild
      + discount upgrade / building
-     + promote simcity w/ builing related boost, synergy boost
+     + promote simcity w/ builing related boost, access and boost to synergy
      + unlock advanced and legendary synergy
 
    - Possible balance tool
