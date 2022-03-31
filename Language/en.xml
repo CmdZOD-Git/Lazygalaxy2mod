@@ -6,8 +6,8 @@
         <line key="upgrade.keep_upgrade_1.flavor">lorem ipsum</line>
 
         <!-- Ships -->
-        <line key="upgrade.keep_upgrade_1">Neutral gladiator</line>
-        <line key="upgrade.keep_upgrade_1.flavor">lorem ipsum</line>
+        <line key="ship.neutral_ship">Neutral gladiator</line>
+        <line key="ship.neutral_ship.flavor">lorem ipsum</line>
 	</lines>
 
 </lang>
