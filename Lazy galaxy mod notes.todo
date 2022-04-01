@@ -36,6 +36,10 @@ Can and can't do
    - add fighting upgrade
    - rearrange former QOL Acension upgrade to Guild / League
 
+ + Orgnisation
+   - move more generic combat boost to acension
+   - 
+
  + Ascension rework
    - Default unlocked
      + offline time
@@ -50,12 +54,15 @@ Can and can't do
 
    - Energy
      + defaultEnergy
-     + overflowedEnergyProductionBoosts
+     + overflowedEnergyProductionBoosts (remove the upgrade)
 
    - Combat
      + tiered +damage/health
      + Health boost timer / heal%
      + Scenario regen
+     + Crit Chance
+     + Lunchbox / conquest (should really be there)
+     + volatileDamageForQuickFight => boost for sub 10s fight
 
    - Chunk
      + reduce obstacle spawn ratio
@@ -71,13 +78,14 @@ Can and can't do
 
 + Upgrade rework
    - Essential
-     + unlock strange asteroids => tier 0 upgrade
+     + unlock strange asteroids => tier 0 upgrade to separate it cleanly ? i feel asteroid unlock should be opt-in and related to your strat
 
    - Tiered upgrade
      + keepUpgrades 1 -> 10 to keep 1 to 10 upgrades
 
    - Guild general
-     + A Boost per join related to what the guild tries to do
+     + A Boost per join related to what the guild tries to do => can't do, i only have access to prod +% all
+     + However i can increase the guild innate power
 
    - Scrapper guild
      + asteroid key spam for cheap
@@ -101,7 +109,7 @@ Can and can't do
      + upgrade : mutualExclusivityGroup
 
    - boostChaining
-     + upgradeUnlocks
+     + upgradeUnlocks => nope, it will buy it
 
 
 
